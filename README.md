@@ -1,7 +1,7 @@
 # Express-Shop-Stop
 ### Simple Express app with basic functionality
 
-The project is a simple product catalog application created using ExpessJS with Handlebars as the view engine and MongoDB with Mongoose for database. Its design follows the MVC pattern.
+The project is a simple product catalog application created using ExpessJS with Handlebars as the view engine and MongoDB with Mongoose for database. Its design follows the MVC pattern and covers all CRUD operations.
 
 The app consists of users, products and categories. Guest users can register and login. Logged in users can logout and also create, buy, edit or delete a product. The Admin can do all this and also create new categories. All these functionalities have their own views. 
 
